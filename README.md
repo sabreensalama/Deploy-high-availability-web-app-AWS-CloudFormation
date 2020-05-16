@@ -1,4 +1,4 @@
-﻿### Project Title - Deploy a high-availability web app using CloudFormation
+﻿###  Deploy a high-availability web app using CloudFormation
 There will be two parts to this project:
 You'll first develop a diagram that you can present as part of your portfolio and as a visual aid to understand the CloudFormation script.
 The second part is to interpret the instructions as well as your own diagram and create a matching CloudFormation script.
